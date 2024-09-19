@@ -1,0 +1,72 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1, h2, h3 {
+    color: #0056b3;
+    text-align: center;
+}
+
+p {
+    color: #333;
+}
+
+/* Header Styles */
+header {
+    background-color: #0056b3;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header p {
+    margin: 10px 0 0;
+}
+
+/* Section Styles */
+section {
+    margin: 50px 0;
+}
+
+#about {
+    background-color: #e8f4ff;
+    padding: 20px 0;
+}
+
+#services .service {
+    margin: 20px 0;
+}
+
+#pricing .pricing-plan {
+    background-color: #e8f4ff;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+#contact {
+    background-color: #f4f4f4;
+    padding: 20px 0;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+}
